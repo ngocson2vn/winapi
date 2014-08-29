@@ -1,0 +1,30 @@
+﻿Build started 8/19/2014 11:09:39 PM.
+     1>Project "D:\NgocSon\DriveSon260685\Programming\WindowsAPI\winapi\App2\App2\App2.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Release\App2.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Release\App2.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\App2.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt App2.cpp
+         App2.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\App2.res" App2.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\NgocSon\DriveSon260685\Programming\WindowsAPI\winapi\App2\Release\App2.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\App2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\NgocSon\DriveSon260685\Programming\WindowsAPI\winapi\App2\Release\App2.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\NgocSon\DriveSon260685\Programming\WindowsAPI\winapi\App2\Release\App2.lib" /MACHINE:X86 Release\App2.res
+         Release\App2.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         App2.vcxproj -> D:\NgocSon\DriveSon260685\Programming\WindowsAPI\winapi\App2\Release\App2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\NgocSon\DriveSon260685\Programming\WindowsAPI\winapi\App2\Release\App2.exe;#1" /manifest Release\App2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\App2.unsuccessfulbuild".
+         Touching "Release\App2.lastbuildstate".
+     1>Done Building Project "D:\NgocSon\DriveSon260685\Programming\WindowsAPI\winapi\App2\App2\App2.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.60
