@@ -1,17 +1,9 @@
-﻿Build started 8/19/2014 9:06:14 PM.
-     1>Project "D:\NgocSon\DriveSon260685\Programming\WindowsAPI\winapi\App1\App1\App1.vcxproj" on node 2 (build target(s)).
-     1>InitializeBuildStatus:
-         Creating "Debug\App1.unsuccessfulbuild" because "AlwaysCreate" was specified.
-       ClCompile:
-         All outputs are up-to-date.
-       Link:
-         All outputs are up-to-date.
-         App1.vcxproj -> D:\NgocSon\DriveSon260685\Programming\WindowsAPI\winapi\App1\Debug\App1.exe
-       FinalizeBuildStatus:
-         Deleting file "Debug\App1.unsuccessfulbuild".
-         Touching "Debug\App1.lastbuildstate".
-     1>Done Building Project "D:\NgocSon\DriveSon260685\Programming\WindowsAPI\winapi\App1\App1\App1.vcxproj" (build target(s)).
+﻿Build started 8/29/2014 10:17:43 AM.
+     1>Project "D:\NgocSon\DriveSon260685\Programming\WindowsAPI\winapi\App1\App1\App1.vcxproj" on node 2 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\App1.lastbuildstate".
+     1>Done Building Project "D:\NgocSon\DriveSon260685\Programming\WindowsAPI\winapi\App1\App1\App1.vcxproj" (clean target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.05
+Time Elapsed 00:00:00.21
